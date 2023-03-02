@@ -5,15 +5,15 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-5 col-md-12 footer-info">
-            <a href="index.html" class="logo d-flex align-items-center">
-              <span>PK3D</span>
+            <a href="<?php echo base_url(); ?>">
+              <h4 style="font-size: 40px;">PK3D</h4>
             </a>
             <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
             <div class="social-links d-flex  mt-3">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              <a target="_blank" href="https://twitter.com/agddinkesdkijkt" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a target="_blank" href="https://www.facebook.com/agd.kesehatan/" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a target="_blank" href="https://www.instagram.com/agddinkesdkijkt/" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a target="_blank" href="https://www.youtube.com/channel/UCGJDcAqD6pkbsDNeDI6Yxeg" class="youtube"><i class="bi bi-youtube"></i></a>
             </div>
           </div>
 
@@ -58,9 +58,9 @@
       </div>
     </div>
 
-    <div class="footer-legal">
+    <div class="footer-legal" style="background-color:#1b2f45;">
       <div class="container">
-        <div class="copyright">
+        <div class="copyright" style="color:white;">
           &copy; Copyright <strong><span>PK3D</span></strong>. All Rights Reserved
         </div>
       </div>

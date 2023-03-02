@@ -18,16 +18,16 @@
           <li><a href="<?php echo base_url(); ?>" class="active"><i class="material-icons w3-xlarge">home</i></a></li>
           <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Kontak Kami</a></li>
-              <li><a href="#">Struktur Organisasi</a></li>
-              <li><a href="#">Visi dan Misi</a></li>
-              <li><a href="#">Tentang</a></li>
+              <li><a href="<?php echo base_url(); ?>Kontak">Kontak Kami</a></li>
+              <li><a href="<?php echo base_url(); ?>Struktur">Struktur Organisasi</a></li>
+              <li><a href="<?php echo base_url(); ?>VisiMisi">Visi dan Misi</a></li>
+              <li><a href="<?php echo base_url(); ?>Tentang">Tentang</a></li>
               <li class="dropdown"><a href="#"><span>Jenis Pelayanan PK3D</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Fasilitas Pelayanan Ambulans</a></li>
-                  <li><a href="#">Standarisasi Ambulans</a></li>
-                  <li><a href="#">Registrasi Rekomendasi Ambulans Basic</a></li>
-                  <li><a href="#">Registrasi Rekomendasi Ambulans Advance</a></li>
+                  <li><a href="<?php echo base_url(); ?>Fasilitas">Fasilitas Pelayanan Ambulans</a></li>
+                  <li><a href="<?php echo base_url(); ?>Standarisasi">Standarisasi Ambulans</a></li>
+                  <li><a href="<?php echo base_url(); ?>RegistrasiBasic">Registrasi Rekomendasi Ambulans Basic</a></li>
+                  <li><a href="<?php echo base_url(); ?>RegistrasiAdvance">Registrasi Rekomendasi Ambulans Advance</a></li>
                 </ul>
               </li>
             </ul>
@@ -38,7 +38,7 @@
           <li><a href="<?php echo base_url(); ?>Team">Team</a></li>
           <li><a href="<?php echo base_url(); ?>Blog">Blog</a></li>
           <li><a href="<?php echo base_url(); ?>Karir">Karir</a></li>
-          <li><a href="<?php echo base_url(); ?>Contact">Kontak</a></li>
+          <!-- <li><a href="#">Kontak</a></li> -->
         </ul>
       </nav><!-- .navbar -->
 
