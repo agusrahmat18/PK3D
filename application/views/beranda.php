@@ -16,6 +16,9 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-6">
+            <!-- <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+              <source src="<?php echo base_url(); ?>assets/video/pk3d.mp4" type="video/mp4">
+            </video> -->
           <h2 data-aos="fade-up" style="color:white; text-align:left; font-size:40px;">PUSAT KRISIS DAN KEGAWATDARURATAN KESEHATAN DAERAH</h2>
           <div class="col-xl-8">
             <blockquote data-aos="fade-up" data-aos-delay="100">
