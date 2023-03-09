@@ -2,12 +2,12 @@
 <body class="page-contact">
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/contact-header.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('<?php echo base_url(); ?>assets/img/kontak-bg.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center">
 
         <h2>Kontak</h2>
         <ol>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="<?php echo base_url(); ?>">Home</a></li>
           <li>Kontak</li>
         </ol>
 
@@ -25,57 +25,69 @@
             <div class="info-item d-flex">
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
-                <h4>Gedung Ambulans Gawat Darurat Dinas Kesehatan DKI Jakarta</h4>
-                <p>Jalan Kesehatan No. 10, Petojo Selatan, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160</p>
+                <a target="_blank" href="https://goo.gl/maps/HyK9HBqEoLDk2hev9">
+                  <h4>Gedung Ambulans Gawat Darurat Dinas Kesehatan DKI Jakarta</h4>
+                  <p>Jalan Kesehatan No. 10, Petojo Selatan, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160</p>
+                </a>  
               </div>
             </div><!-- End Info Item -->
 
             <div class="info-item d-flex">
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
-                <h4>Email AGD Dinkes DKI Jakarta:</h4>
-                <p>agd.dinkes@jakarta.go.id</p>
+                <a target="_blank" href="mailto:agd.dinkes@jakarta.go.id">
+                  <h4>Email AGD Dinkes DKI Jakarta:</h4>
+                  <p>agd.dinkes@jakarta.go.id</p>
+                </a> 
               </div>
             </div><!-- End Info Item -->
 
             <div class="info-item d-flex">
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
-                <h4>Telepon Kegawatdaruratan:</h4>
-                <p>119</p>
-                <p>112</p>
+                <h4>Telepon Kegawatdaruratan:</h4>                
+                <a target="_blank" href="tel:119"><p>119</p></a>                
+                <a target="_blank" href="tel:112"><p>112</p></a> 
               </div>
             </div><!-- End Info Item -->
 
             <div class="info-item d-flex">
               <i class="bi bi-whatsapp flex-shrink-0"></i>
               <div>
-                <h4>Whatsapp Kegawatdaruratan:</h4>
-                <p>0812-8966-6119</p>
+                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6281289666119&text=Halo PK3D saya mau melaporkan ada kegawatdaruratan didaerah saya">
+                  <h4>Whatsapp Kegawatdaruratan:</h4>
+                  <p>0812-8966-6119</p>
+                </a> 
               </div>
             </div><!-- End Info Item -->
 
             <div class="info-item d-flex">
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
-                <h4>Kantor:</h4>
-                <p>021-21201123</p>
+                <a target="_blank" href="tel:+622121201123">
+                  <h4>Kantor:</h4>
+                  <p>021-21201123</p>
+                </a> 
               </div>
             </div><!-- End Info Item -->
 
             <div class="info-item d-flex">
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
-                <h4>Fax:</h4>
-                <p>021-21201123</p>
+                <a target="_blank" href="tel:+622121201123">
+                  <h4>Fax:</h4>
+                  <p>021-21201123</p>
+                </a> 
               </div>
             </div><!-- End Info Item -->
 
             <div class="info-item d-flex">
               <i class="bi bi-phone flex-shrink-0"></i>
               <div>
-                <h4>Nomor Keluhan Pelanggan:</h4>
-                <p>0811-9700-9500</p>
+                <a target="_blank" href="tel:+6281197009500">
+                  <h4>Nomor Keluhan Pelanggan:</h4>
+                  <p>0811-9700-9500</p>
+                </a> 
               </div>
             </div><!-- End Info Item -->
 

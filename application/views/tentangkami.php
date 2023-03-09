@@ -6,16 +6,16 @@
     <div class="breadcrumbs d-flex align-items-center" style="background-image: url('<?php echo base_url(); ?>assets/img/about-header.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center">
 
-        <h2>About</h2>
+        <h2>Tentang Kami</h2>
         <ol>
           <li><a href="index.html">Home</a></li>
-          <li>About</li>
+          <li>Tentang Kami</li>
         </ol>
 
       </div>
     </div><!-- End Breadcrumbs -->
 
-    <!-- ======= About Section ======= -->
+    <!-- ======= Tentang Kami Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
@@ -24,105 +24,26 @@
             <img src="<?php echo base_url(); ?>assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8">
-            <div class="content ps-lg-5">
-              <h3>Voluptatem dignissimos provident quasi</h3>
-              <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
-              </p>
-              <ul>
-                <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              </ul>
+            <div class="content ps-lg-5" style="text-align: justify;">
+              <h3 style="font-family:arial;">Tentang PK3D Dinas Kesehatan DKI Jakarta</h3>
+              <p>DKI Jakarta sebagai ibu kota negara Indonesia dan ibukota provinsi, merupakan pusat pemerintahan, perekonomian, politik, budaya, pendidikan dan sebagai kota metropolitan. Jakarta mempunyai tingkat kepadatan penduduk yang tinggi, kondisi ini berpotensi untuk terjadi masalah kegawatdaruratan, seperti kecelakaan lalu lintas maupun masalah di bidang kesehatan sebagai akibat terjadinya perubahan gaya hidup masyarakat, seperti meningkatnya resiko penyakit kardiovaskuler, degeneratif, penyakit menular, dan lain-lain. Disamping itu juga beresiko untuk terjadinya benturan kepentingan dan konflik yang bernuansa SARA (suku, agama, dan ras) yang dapat memicu kerusuhan sosial, huru-hara, dan bencana.</p>
+              <p>Salah satu upaya untuk menanggulangi meningkatnya kasus gawat darurat medik dan bencana adalah dengan menyediakan pelayanan Ambulans Gawat Darurat (Emergency Medical Services) dan mempersiapkan tenaga perawat kesehatan yang diharapkan dapat menunjang upaya dalam memberikan respons yang cepat dan tepat dalam memberikan pertolongan pada korban saat ditempat kejadian sampai evakuasi ke rumah sakit.</p>
+              <p>Pemerintah Provinsi DKI Jakarta melalui <b style="color:orange;">Peraturan Gubernur No. 144 tahun 2010</b> menetapkan Ambulans Gawat Darurat Dinas Kesehatan Provinsi DKI Jakarta (AGD DINKES) sebagai Badan Layanan Umum diharapkan dapat meningkatkan kinerja yang selama ini telah berjalan menjadi optimal dan lebih dapat dipertanggungjawabkan, yang pada akhirnya dapat meningkatkan pelayanan gawat darurat pra rumah sakit.</p>
+              <p>Pelayanan AGD DINKES berorientasi kepada pelayanan pra rumah sakit, evakuasi medis dari lokasi kejadian (kecelakaan lalulintas, kebakaran, bencana, dan kejadian-kejadian luar biasa lainnya) ke rumah sakit, maupun dari rumah sakit ke rumah sakit. Dengan terbentuknya AGD DINKES akan memberikan jawaban atas kasus-kasus yang terjadi pada saat ini, sehingga berdampak menurunnya angka kesakitan, kematian, dan kecacatan akibat kasus kegawatdaruratan pra rumah sakit untuk masyarakat di wilayah Provinsi DKI Jakarta dan sekitarnya.</p>
+              <p>Ambulans Gawat Darurat Dinas Kesehatan Provinsi DKI Jakarta <b style="color:orange;">GRATIS</b> untuk warga DKI (ber-KTP dan KK DKI Jakarta) dan untuk pelayanan di wilayah DKI Jakarta. Tarif resmi sesuai pergub di kenakan untuk pengguna bukan warga DKI Jakarta (tanpa KTP dan KK DKI Jakarta), yaitu Rp. 450.000 untuk pelayanan di wilayah DKI Jakarta. Adapun untuk wilayah lainnya tarif di atur sesuai lokasi yang dituju.</p>
             </div>
           </div>
         </div>
 
       </div>
-    </section><!-- End About Section -->
-
-    <!-- ======= Why Choose Us Section ======= -->
-    <section id="why-us" class="why-us">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-header">
-          <h2>Why Choose Us</h2>
-
-        </div>
-
-        <div class="row g-0" data-aos="fade-up" data-aos-delay="200">
-
-          <div class="col-xl-5 img-bg" style="background-image: url('<?php echo base_url(); ?>assets/img/why-us-bg.jpg')"></div>
-          <div class="col-xl-7 slides  position-relative">
-
-            <div class="slides-1 swiper">
-              <div class="swiper-wrapper">
-
-                <div class="swiper-slide">
-                  <div class="item">
-                    <h3 class="mb-3">Let's grow your business together</h3>
-                    <h4 class="mb-3">Optio reiciendis accusantium iusto architecto at quia minima maiores quidem, dolorum.</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, ipsam perferendis asperiores explicabo vel tempore velit totam, natus nesciunt accusantium dicta quod quibusdam ipsum maiores nobis non, eum. Ullam reiciendis dignissimos laborum aut, magni voluptatem velit doloribus quas sapiente optio.</p>
-                  </div>
-                </div><!-- End slide item -->
-
-                <div class="swiper-slide">
-                  <div class="item">
-                    <h3 class="mb-3">Unde perspiciatis ut repellat dolorem</h3>
-                    <h4 class="mb-3">Amet cumque nam sed voluptas doloribus iusto. Dolorem eos aliquam quis.</h4>
-                    <p>Dolorem quia fuga consectetur voluptatem. Earum consequatur nulla maxime necessitatibus cum accusamus. Voluptatem dolorem ut numquam dolorum delectus autem veritatis facilis. Et ea ut repellat ea. Facere est dolores fugiat dolor.</p>
-                  </div>
-                </div><!-- End slide item -->
-
-                <div class="swiper-slide">
-                  <div class="item">
-                    <h3 class="mb-3">Aliquid non alias minus</h3>
-                    <h4 class="mb-3">Necessitatibus voluptatibus explicabo dolores a vitae voluptatum.</h4>
-                    <p>Neque voluptates aut. Soluta aut perspiciatis porro deserunt. Voluptate ut itaque velit. Aut consectetur voluptatem aspernatur sequi sit laborum. Voluptas enim dolorum fugiat aut.</p>
-                  </div>
-                </div><!-- End slide item -->
-
-                <div class="swiper-slide">
-                  <div class="item">
-                    <h3 class="mb-3">Necessitatibus suscipit non voluptatem quibusdam</h3>
-                    <h4 class="mb-3">Tempora quos est ut quia adipisci ut voluptas. Deleniti laborum soluta nihil est. Eum similique neque autem ut.</h4>
-                    <p>Ut rerum et autem vel. Et rerum molestiae aut sit vel incidunt sit at voluptatem. Saepe dolorem et sed voluptate impedit. Ad et qui sint at qui animi animi rerum.</p>
-                  </div>
-                </div><!-- End slide item -->
-
-              </div>
-              <div class="swiper-pagination"></div>
-            </div>
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Why Choose Us Section -->
-
-    <!-- ======= Call To Action Section ======= -->
-    <section id="call-to-action" class="call-to-action">
-      <div class="container" data-aos="fade-up">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h3>Ut fugiat aliquam aut non</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
-            <a class="cta-btn" href="#">Call To Action</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Call To Action Section -->
+    </section><!-- End Tentang Kami Section -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Our Team</h2>
+          <h2>Struktur Organisasi</h2>
         </div>
         
         <div class="row gy-4">
@@ -180,8 +101,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>Kasatpel 1</span>
+                <h4>dr. Roy Michael</h4>
+                <span>Kasatpel 1 (Pelayanan Masyarakat)</span>
               </div>
             </div>
           </div><!-- End Team Member -->
@@ -198,8 +119,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Kasatpel 2</span>
+                <h4>Ida Syarina S.Kep, NERS</h4>
+                <span>Kasatpel 2 (Pengembangan Sumber Daya dan Pemberdayaan Masyarakat)</span>
               </div>
             </div>
           </div><!-- End Team Member -->
@@ -216,8 +137,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Kasatpel 3</span>
+                <h4>dr. Sartika Sari</h4>
+                <span>Kasatpel 3 (Pusat Krisis dan SPGDT)</span>
               </div>
             </div>
           </div><!-- End Team Member -->

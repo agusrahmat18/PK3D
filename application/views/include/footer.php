@@ -8,7 +8,7 @@
             <a href="<?php echo base_url(); ?>">
               <h4 style="font-size: 40px;">PK3D</h4>
             </a>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <p style="text-align: justify;">Dalam mewujudkan pelayanan prima, Unit Pelayanan Ambulans Gawat Darurat Dinas Kesehatan Provinsi DKI Jakarta memiliki komitmen untuk menjadi organisasi yang bermutu, menjunjung kesehatan dan keselamatan kerja dalam pengelolaan pelayanan ambulans gawat darurat, sertifikasi kelayakan ambulans, pendidikan dan pelatihan dengan melakukan perbaikan mutu dan SMK3 secara berkelanjutan sesuai peraturan perundang-undangan.</p>
             <div class="social-links d-flex  mt-3">
               <a target="_blank" href="https://twitter.com/agddinkesdkijkt" class="twitter"><i class="bi bi-twitter"></i></a>
               <a target="_blank" href="https://www.facebook.com/agd.kesehatan/" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -48,8 +48,8 @@
                 <strong>Gedung Ambulans Gawat Darurat Dinas Kesehatan Provinsi DKI Jakarta.</strong>
                 Jl. Kesehatan No.10, Petojo Selatan, Gambir, Kota Jakarta Pusat<br>
                 Daerah Khusus Ibukota Jakarta 10160<br><br>
-                <strong>Phone:</strong> +6221-21201123<br>
-                <strong>Email:</strong> agd.dinkes@jakarta.go.id <br>
+                <strong>Phone:</strong><a href="tel:+622121201123"> +6221-21201123</a><br>
+                <strong>Email:</strong><a href="mailto:agd.dinkes@jakarta.go.id"> agd.dinkes@jakarta.go.id</a><br>
             </p>
 
           </div>
@@ -61,7 +61,7 @@
     <div class="footer-legal" style="background-color:#1b2f45;">
       <div class="container">
         <div class="copyright" style="color:white;">
-          &copy; Copyright <strong><span>PK3D</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span><a target="_blank" href="https://agddinkes.jakarta.go.id/">PK3D</a> & <a target="_blank" href="https://bootstrapmade.com/demo/Nova/">NOVA</a></span></strong>. All Rights Reserved
         </div>
       </div>
     </div>
