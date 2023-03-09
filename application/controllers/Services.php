@@ -5,6 +5,11 @@ class Services extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('Services');
+		$this->load->view('include/header');
+		$this->load->view('include/menu');
+		
+		$this->load->view('services');
+
+		$this->load->view('include/footer');
 	}
 }

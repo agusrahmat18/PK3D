@@ -5,10 +5,10 @@
     <div class="breadcrumbs d-flex align-items-center" style="background-image: url('<?php echo base_url(); ?>assets/img/kontak-bg.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center">
 
-        <h2>Kontak</h2>
+        <h2>Kontak Kami</h2>
         <ol>
           <li><a href="<?php echo base_url(); ?>">Home</a></li>
-          <li>Kontak</li>
+          <li>Kontak Kami</li>
         </ol>
 
       </div>

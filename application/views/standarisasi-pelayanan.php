@@ -9,7 +9,7 @@
         <h2>Standarisasi Pelayanan</h2>
         <ol>
           <li><a href="<?php echo base_url();?>">Home</a></li>
-          <li>Standarisasi Pelayanan Ambulans</li>
+          <li>Standarisasi Pelayanan</li>
         </ol>
 
       </div>

@@ -27,16 +27,15 @@
                   <li><a href="<?php echo base_url(); ?>Fasilitas">Fasilitas Pelayanan Ambulans</a></li>
                   <li><a href="<?php echo base_url(); ?>StandarisasiPelayanan">Standarisasi Pelayanan</a></li>
                   <li><a href="<?php echo base_url(); ?>StandarisasiAmbulans">Standarisasi Ambulans</a></li>
-                  <li><a href="<?php echo base_url(); ?>RegistrasiBasic">Registrasi Rekomendasi Ambulans Basic</a></li>
-                  <li><a href="<?php echo base_url(); ?>RegistrasiAdvance">Registrasi Rekomendasi Ambulans Advance</a></li>
+                  <li><a target="_blank" href="https://forms.gle/RVosQLyq2buwEDi39">Registrasi Rekomendasi Ambulans Basic</a></li>
+                  <li><a target="_blank" href="https://forms.gle/F7DvUb1bBKe9Wz47A">Registrasi Rekomendasi Ambulans Advance</a></li>
                 </ul>
               </li>
             </ul>
           </li>
           <!-- <li><a href="<?php echo base_url(); ?>About">About</a></li> -->
           <li><a href="<?php echo base_url(); ?>Services">Services</a></li>
-          <li><a href="<?php echo base_url(); ?>Portfolio">Portfolio</a></li>
-          <li><a href="<?php echo base_url(); ?>Team">Team</a></li>
+          <li><a href="<?php echo base_url(); ?>Portofolio">Portofolio</a></li>
           <li><a href="<?php echo base_url(); ?>Berita">Berita</a></li>
           <li><a href="<?php echo base_url(); ?>Karir">Karir</a></li>
           <!-- <li><a href="#">Kontak</a></li> -->
