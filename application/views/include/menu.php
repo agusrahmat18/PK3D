@@ -34,6 +34,7 @@
             </ul>
           </li>
           <!-- <li><a href="<?php echo base_url(); ?>About">About</a></li> -->
+          <li><a href="<?php echo base_url(); ?>Maps">Maps</a></li>
           <li><a href="<?php echo base_url(); ?>Services">Services</a></li>
           <li><a href="<?php echo base_url(); ?>Portofolio">Portofolio</a></li>
           <li><a href="<?php echo base_url(); ?>Berita">Berita</a></li>
