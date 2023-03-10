@@ -22,7 +22,7 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('<?php echo base_url(); ?>assets/img/about-header.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('<?php echo base_url(); ?>assets/img/maps.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center">
 
         <h2>Maps</h2>
