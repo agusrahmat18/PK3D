@@ -2,7 +2,7 @@
 <body class="page-contact">
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('<?php echo base_url(); ?>assets/img/kontak-bg.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('<?php echo base_url(); ?>assets/img/gedung.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center">
 
         <h2>Struktur Organisasi</h2>
@@ -14,6 +14,116 @@
       </div>
     </div><!-- End Breadcrumbs -->
 
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Struktur Organisasi</h2>
+        </div>
+        
+        <div class="row gy-4">
+          <div class="col-lg-3"></div>
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="team-member">
+              <!-- <div class="member-img"> -->
+                <img src="<?php echo base_url(); ?>assets/img/team/kanit.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              <!-- </div> -->
+              <div class="member-info">
+                <h4>dr. Winarto, MARS</h4>
+                <span>Kepala Unit PK3D</span>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="<?php echo base_url(); ?>assets/img/team/kasubag.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Sugeng Priwanto S.Kep,NERS</h4>
+                <span>Kasubag TU PK3D</span>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+        </div>
+        
+        <br>
+
+        <div class="row gy-4">
+          <div class="col-lg-1"></div>
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="<?php echo base_url(); ?>assets/img/team/kasatpel1.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>dr. Roy Michael</h4>
+                <span>Kasatpel 1 (Pelayanan Masyarakat)</span>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="<?php echo base_url(); ?>assets/img/team/kasatpel2.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ida Syarina S.Kep, NERS</h4>
+                <span>Kasatpel 2 (Pengembangan Sumber Daya dan Pemberdayaan Masyarakat)</span>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="<?php echo base_url(); ?>assets/img/team/kasatpel3.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>dr. Sartika Sari</h4>
+                <span>Kasatpel 3 (Pusat Krisis dan SPGDT)</span>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+          
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+    
     <!-- ======= Struktur Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
